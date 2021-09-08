@@ -1,10 +1,10 @@
-package it.vscalcione.springboot.demoapplication;
+package it.vscalcione.springboot.demoapplicationjwt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootDemoApplicationTests {
+class DemoApplicationJwtTests {
 
 	@Test
 	void contextLoads() {
